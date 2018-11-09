@@ -1,5 +1,5 @@
 # QuickJira
-AutoIt script to speed up common Jira tasks
+AutoIt script to speed up common Jira tasks, configured for Vuzix Jira instance and the Support project by default
 
 Dependencies:
 
